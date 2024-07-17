@@ -1,0 +1,49 @@
+body
+{
+    background-color: rgb(25,25,25);
+    font-family: Arial;
+    color: white;
+}
+
+h1
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+.images-button
+{
+    margin-right: 8px;
+    margin-bottom: 30px;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    background-color: rgb(25,25,25);
+    border: 3px white solid;
+    cursor: pointer;
+}
+
+.images-img
+{
+    height: 40px;
+
+}
+
+.js-result
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.js-moves
+{
+    margin-bottom: 60px;
+}
+
+.reset-button
+{
+    padding: 7px 13px;
+    cursor: pointer;
+    font-size: 15px;
+}
